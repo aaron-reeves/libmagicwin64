@@ -1,0 +1,4 @@
+Include magic and magic.mgc from C:\libs\C_libs\bin (32-bit) or C:\libs\C_libs-x64\bin (64 bit)
+Both 32- and 64-bit installations require the appropriate version of magic1.dll.
+The 32-bit version also requires regex2.dll and zlib1.dll.
+The 64-bit version also requires libgnurx-0.dll. I don't currently have a 64-bix zlib, but it might be worth looking into some day.
