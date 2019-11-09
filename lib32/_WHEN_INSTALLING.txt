@@ -1,0 +1,1 @@
+Include magic and magic.mgc from C:\libs\C_libs\bin
